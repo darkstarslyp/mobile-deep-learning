@@ -8,7 +8,4 @@
 /captures
 .externalNativeBuild
 .idea
-gradlew.bat
 *.iml
-gradle
-gradlew
